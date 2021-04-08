@@ -1,5 +1,5 @@
 # iOS  Calculator App
-Minimalistic Calculator app.
+Minimalistic calculator app.
 
 
 ![Preview](https://github.com/imjaked/Calculator-App/blob/main/Preview.png)
